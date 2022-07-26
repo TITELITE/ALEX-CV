@@ -10,6 +10,10 @@ body {
     margin-right: auto;
 }
 
+.container {
+   
+}
+
 .avatar {
     border-radius: 28px;
     width: 718px;
@@ -18,10 +22,35 @@ body {
     margin-right: auto;
 }
 
+.info {
+    margin-bottom: 20px;
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.bg-yellow {
+    background: #fff9dc;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.bg-blue {
+    background: #D9FFF2;
+}
+
 h1 {
     text-align: center;
 }
-
 
 h6 {
     text-align: right;
