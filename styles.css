@@ -10,6 +10,18 @@ body {
     margin-right: auto;
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+}
+
 .container {
    
 }
