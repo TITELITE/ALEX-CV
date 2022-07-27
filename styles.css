@@ -22,8 +22,13 @@ a:active {
     color: blue;
 }
 
+a:visited {
+    color: gray;
+}
+
 .container {
-   
+   max-width: 718px;
+   margin: auto;
 }
 
 .avatar {
@@ -42,6 +47,17 @@ a:active {
     padding: 15px 20px;
     margin-bottom: 20px;
     border-radius: 20px;
+}
+
+.list {
+    padding: 0 20px;
+    list-style: none;
+
+}
+
+.list li {
+    color: #86898f;
+    margin-bottom: 10px;
 }
 
 .bg-yellow {
