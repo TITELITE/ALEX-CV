@@ -91,7 +91,6 @@ a:visited {
 .row {
     display: flex;
     margin-bottom: 20px;
-
 }
 
 .row > .form-group {
