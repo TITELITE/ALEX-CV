@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="5;URL=http://electro-service.com.ua" />
+<meta http-equiv="refresh" content="5;URL=https://titelite.github.io/ALEX-CV/" />
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 if (!empty($_POST['name']) && !empty($_POST['phone'])){

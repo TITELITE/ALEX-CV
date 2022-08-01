@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    $(".form-element").submit(function () {
+    $(".form-group").submit(function () {
         var formID = $(this).attr('id');
         var formNm = $('#' + formID);
         var message = $(formNm).find(".form-message");
