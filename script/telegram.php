@@ -5,7 +5,7 @@
 
 $name = $_POST['user_name'];
 $email = $_POST['user_email'];
-$text = $_POST['user_text'];
+// $text = $_POST['user_text'];
 
 $token = "5428210587:AAHPtWmbxD2WAlMe56zXCryAaHljiSJ6agQ";
 $chat_id ="-613203752";
@@ -13,7 +13,7 @@ $chat_id ="-613203752";
 $arr = array(
     'Name: ' => $name,
     'Email: ' => $email,
-    'Text ' => $text
+    // 'Text: ' => $text
 );
 
 foreach($arr as $key => $value) {
